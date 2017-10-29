@@ -1,0 +1,27 @@
+{
+  "name": "mini-request",
+  "version": "1.0.0",
+  "description": "Minimalistic Node.js request module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustedtomato/mini-request.git"
+  },
+  "keywords": [
+    "request",
+    "http",
+    "https",
+    "minimal",
+    "mini",
+    "minimalistic"
+  ],
+  "author": "Halasi Tamás",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trustedtomato/mini-request/issues"
+  },
+  "homepage": "https://github.com/trustedtomato/mini-request#readme"
+}
