@@ -1,6 +1,6 @@
 {
   "name": "mini-request",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Minimalistic Node.js request module",
   "main": "index.js",
   "scripts": {
