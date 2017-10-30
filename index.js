@@ -21,7 +21,6 @@ const request = (url, {method = 'GET', body, post, headers = {}, redirects = 5, 
 	if(body && !headers['Content-Length']){
 		headers['Content-Length'] = Buffer.byteLength(body);
 	}
-	console.log(method, body, headers);
 
 	
 	const req = lib.request({ host, path, headers, method }, resp => {		
